@@ -25,13 +25,13 @@ html, body {
     text-align: center;
 }
 
-/* Increase the size of the icons and add cursor pointer */
+
 .fa-solid {
-    font-size: 2em; /* Adjust the size as needed */
-    cursor: pointer; /* Add cursor pointer */
+    font-size: 2em; 
+    cursor: pointer;
 }
 
-/* Increase the size of the heading */
+
 h1 {
-    font-size: 3em; /* Adjust the size as needed */
+    font-size: 3em; 
 }
